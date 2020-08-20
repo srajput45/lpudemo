@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lpudemo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/lpudemo/static/js/main.8cad3ee9.chunk.js",
+    "main.js.map": "/lpudemo/static/js/main.8cad3ee9.chunk.js.map",
+    "runtime-main.js": "/lpudemo/static/js/runtime-main.0db7c1f3.js",
+    "runtime-main.js.map": "/lpudemo/static/js/runtime-main.0db7c1f3.js.map",
+    "static/js/2.b013bc16.chunk.js": "/lpudemo/static/js/2.b013bc16.chunk.js",
+    "static/js/2.b013bc16.chunk.js.map": "/lpudemo/static/js/2.b013bc16.chunk.js.map",
+    "index.html": "/lpudemo/index.html",
+    "precache-manifest.7dc81452cb037fa571bbfd6350d524aa.js": "/lpudemo/precache-manifest.7dc81452cb037fa571bbfd6350d524aa.js",
+    "service-worker.js": "/lpudemo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/lpudemo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b013bc16.chunk.js.LICENSE.txt": "/lpudemo/static/js/2.b013bc16.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lpudemo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0db7c1f3.js",
+    "static/js/2.b013bc16.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8cad3ee9.chunk.js"
+  ]
+}
